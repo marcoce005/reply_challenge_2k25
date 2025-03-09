@@ -169,3 +169,5 @@ rimosso = testo.strip()  # Rimuove spazi iniziali e finali
 
 Questo cheat sheet fornisce una panoramica rapida delle funzionalità principali di Python!
 
+
+For more visit https://github.com/marcoce005/Python/tree/main/cheat_sheet
