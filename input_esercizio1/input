@@ -1,0 +1,7 @@
+1
+5
+find_user
+deletetable
+find_user:alice;send_promo
+username="admin’;deletetable=users;--"
+#print
