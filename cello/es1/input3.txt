@@ -1,0 +1,16 @@
+1
+14
+'i.t--all
+-c;ear"bob
+a:al)ze_user
+9c;ear5logs
+notify-a#l:'users'&ac&ive=TRUE
+se1ect*from
+1'i.t--alllogs
+c;ear
+0<c;ear1'i.t--all;se1ect*from6a:al)ze_user4deleteta')e2notify-a#l:'users'&ac&ive=TRUE
+notify-a#l:'users'&ac&ive=TRUE3deleteta')e'
+>notify-a#l:'users'&ac&ive=TRUEbob
+(notify-a#l:'users'&ac&ive=TRUE:alice
+deleteta')e
+(notify-a#l:'users'&ac&ive=TRUE=bob

@@ -1,0 +1,15 @@
+1
+13
+*ri%t
+8*ri%t/reset@9wd@*le8r@deleteuser&6pt:resp--yes0!
+"*ri%t(admin
++reset@9wd5alice
+*le8r
+deleteuser&6pt:resp--yes
+*ri%t7deleteuser&6pt:resp--yes2
+*le8r-reset@9wd3
+?deleteuser&6pt:resp--yesalice
+"*ri%talice
+reset@9wd
++*ri%t$reset@9wd'*le8r,deleteuser&6pt:resp--yes$/
+1*ri%talice
