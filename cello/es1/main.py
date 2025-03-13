@@ -1,6 +1,3 @@
-# import re
-
-
 def read_file(path):
     with open(path) as file:
         test = int(file.readline())
@@ -12,15 +9,21 @@ def read_file(path):
     return d
 
 
+def clean(e, l):
+    return [el for el in l if e not in el or el == e]
+
+
 def filter_list(l):
-    try:
-        for i in range(len(l)):
-            print(l)
-            l = [e for e in l if l[i] not in e]
-            print(l)
-        return l
-    except:
-        return l
+    print(l)
+
+    i = 0
+    while i < len(l):
+        l = clean(l[i], l)
+        i += 1
+
+    print(l)
+
+    return l
 
 
 def filter_valid(d):
@@ -35,9 +38,9 @@ def print_output(d):
             for e in v:
                 file.write(f" {e}")
             file.write("\n")
-        
 
-PATH_FILE = "./reply1.txt"
+
+PATH_FILE = "./input.txt"
 logs = read_file(PATH_FILE)
 
 filter_valid(logs)
